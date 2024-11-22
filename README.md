@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working with @jamf building enterprise software
-- ⚡ Interested in Vue, GraphQL, Cloud ops and AI
-- 🦄 I have experience in UX, frontend development, backend development, prompt engineering and cloud operations
+- ⚡ Interested in solving problems and whatever tech those problems need solving with
+- 🦄 I have experience in UX, frontend development, API and database development, AI and cloud operations
